@@ -3,11 +3,11 @@ This Website is intended to provide best user experience to our customers and ma
 
 The major Features provided on our website are
 
-  1.User can add the products to the cart and can increase and decrease the amount of products according to his wish.
+  1.Customer can add the products to the cart and can increase and decrease the amount of products according to his/her wish.
   
-  2.User can checkout and place an order.
+  2.Customer can checkout and place an order.
   
-  3.User can track his order through order id provided.
+  3.Customer can track his order through order id provided.
   
-  4.User can search for a product .
+  4.Customer can search for a product .
   
