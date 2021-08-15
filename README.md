@@ -9,3 +9,5 @@ The major Features provided on our website are
   
   3.User can track his order through order id provided.
   
+  4.User can search for a product .
+  
